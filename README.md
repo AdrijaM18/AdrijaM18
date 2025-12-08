@@ -49,6 +49,8 @@ Sarojini Naidu College For Women
   🔗 https://credentials.databricks.com/a59ec711-c4c5-45ce-a3e8-75b6f3ba6529
 - 🏅 **Software Engineer Certificate**
 
+### 🚀 Certified in:
+[![Databricks Fundamentals](Academy Accreditation - Databricks Fundamentals • Adrija Mukherjee • Databricks Badges.html)]([https://YOUR-CREDLY-BADGE-LI](https://credentials.databricks.com/a59ec711-c4c5-45ce-a3e8-75b6f3ba6529#acc.mURuY542)
 ---
 
 ## 🔗 Links
