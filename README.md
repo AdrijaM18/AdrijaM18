@@ -40,7 +40,8 @@ Sarojini Naidu College For Women
 
 ## 🏆 Certifications
 
-- 🧾 **SQL (Basic)**  
+- 🧾 **PostgreSQL (Basic): **
+  🔗 https://drive.google.com/drive/u/0/folders/1iDKMOtLvlXO-pgdC_vQ6xykqc5z2dYcE
 - 🧾 **Python (Basic)**
 - 🤖 **Generative AI Fundamentals**  
   🔗 https://credentials.databricks.com/c6c2f25f-f4c1-444c-8868-e1eaa3012eec
