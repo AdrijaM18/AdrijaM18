@@ -1,16 +1,73 @@
-## Hi there 👋
+👤 About Me — Adrija Mukherjee
 
-<!--
-**AdrijaM18/AdrijaM18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer specializing in Python, SQL, and scalable data workflows.
+Passionate about integrating AI and intelligent systems into practical applications.
 
-Here are some ideas to get you started:
+Code. Optimize. Repeat.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills:
+
+React Native
+
+Data Modelling
+
+Programming
+
+Profile
+
+💼 Experience
+
+Software Engineer — VUCS Private Limited
+January 2024 – Present
+
+Profile
+
+🎓 Education
+
+Master of Computer Applications (MCA)
+RCC Institute of Information Technology
+2022 – 2024
+
+Bachelor’s in Computer Sciences
+Sarojini Naidu College For Women
+2019 – 2022
+
+Profile
+
+🏆 Certifications
+
+SQL (Basic)
+
+Python (Basic)
+
+Generative AI Fundamentals: https://credentials.databricks.com/c6c2f25f-f4c1-444c-8868-e1eaa3012eec
+
+Academy Accreditation — Databricks Fundamentals: https://credentials.databricks.com/a59ec711-c4c5-45ce-a3e8-75b6f3ba6529
+
+Software Engineer Certificate
+
+Profile
+
+🔗 Links
+
+LinkedIn: https://www.linkedin.com/in/adrija--mukherjee
+
+GitHub: https://github.com/AdrijaM18
+
+Profile
+
+🧭 Summary
+
+This project demonstrates how traditional ML systems can be enhanced with generative AI to unlock richer, conversational, and more personalized recommendations.
+
+My contribution focused on:
+
+LLM integration
+
+Natural language recommendation design
+
+API orchestration
+
+Enhanced UX
+
+Resulting in a system capable of context-aware, AI-driven book suggestions.
