@@ -9,6 +9,7 @@
 
 ## 🧰 Skills
 
+- 🚀 Java SpringBoot 
 - 🚀 React Js 
 - 🧱 Data Modelling  
 - 👨‍💻 Node Js
