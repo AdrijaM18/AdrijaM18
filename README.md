@@ -1,4 +1,5 @@
 ## 👤 About Me — *Adrija Mukherjee*
+> ✨ *"SWE | AI | Cloud | Data"*
 
 💻 Software Engineer specializing in **Python, SQL, and scalable data workflows**.  
 🤖 Passionate about integrating **AI and intelligent systems** into practical applications.  
@@ -17,13 +18,6 @@
 - 👨‍💻 SQL Server
 - 👨‍💻 PostgreSQL
 - 👨‍💻 Python
-
----
-
-## 💼 Experience
-
-**Software Engineer — VUCS Private Limited**  
-📅 *January 2024 – Present*  
 
 ---
 
