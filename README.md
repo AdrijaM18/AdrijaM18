@@ -5,7 +5,7 @@
 Python, Node.js, SQL, and cloud platforms. Hands-on experience developing LLM-powered applications including semantic
 search, prompt engineering, tool calling, and AI agent workflows using LangChain and LangGraph. Passionate about
 building production-ready Generative AI systems leveraging RAG, embeddings, and intelligent automation.**.  
-🤖 Passionate about integrating **AI and intelligent systems** into practical applications.  
+
 
 > ✨ *"Code. Optimize. Repeat."*
 
