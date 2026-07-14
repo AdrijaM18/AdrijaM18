@@ -21,6 +21,7 @@ building production-ready Generative AI systems leveraging RAG, embeddings, and 
 - 👨‍💻 SQL Server
 - 👨‍💻 PostgreSQL
 - 👨‍💻 Python
+- 🚀 Langraph
 
 ---
 
