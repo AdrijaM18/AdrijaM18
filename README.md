@@ -13,7 +13,6 @@ building production-ready Generative AI systems leveraging RAG, embeddings, and 
 
 ## 🧰 Skills
 
-- 🚀 Java SpringBoot 
 - 🚀 React Js 
 - 🧱 Data Modelling  
 - 👨‍💻 Node Js
