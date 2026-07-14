@@ -1,7 +1,10 @@
 ## 👤 About Me — *Adrija Mukherjee*
 > ✨ *"SWE | AI | Cloud | Data"*
 
-💻 Software Engineer specializing in **Python, SQL, and scalable data workflows**.  
+💻 Software Engineer with 2.5+ years of experience building production backend systems and AI-enabled applications using
+Python, Node.js, SQL, and cloud platforms. Hands-on experience developing LLM-powered applications including semantic
+search, prompt engineering, tool calling, and AI agent workflows using LangChain and LangGraph. Passionate about
+building production-ready Generative AI systems leveraging RAG, embeddings, and intelligent automation.**.  
 🤖 Passionate about integrating **AI and intelligent systems** into practical applications.  
 
 > ✨ *"Code. Optimize. Repeat."*
