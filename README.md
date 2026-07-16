@@ -36,7 +36,19 @@ Prompt Engineering, Structured Output Parsing, LLaMA, OpenAI API, Embeddings
 **AI Dev Tools:** GitHub Copilot, Claude, Codex
 
 ---
+
 ## 🚀 Featured Projects
+
+**🔹 PM Copilot — AI Product Manager** — `Python` `LangGraph` `LangChain` `Groq` `Pydantic`
+
+Built an agentic AI application that transforms product ideas into implementation-ready Product Requirement Documents (PRDs) using a multi-stage LangGraph workflow.
+
+**Key Highlights**
+- 🧠 Multi-agent workflow with conditional routing and shared graph state
+- 📄 Automatically generates PRDs, engineering task breakdowns, and user stories
+- 🛠️ LangChain tool calling for Markdown export and artifact persistence
+- ✅ Structured outputs using Pydantic models for predictable AI responses
+- ♻️ Modular agent architecture with reusable prompts and workflow nodes
 
 **🔹 Agentic Ticket Resolution System** — `Python` `LangGraph` `LangChain`
 Multi-node LangGraph workflow with conditional routing, tool-calling, and reasoning loops to 
